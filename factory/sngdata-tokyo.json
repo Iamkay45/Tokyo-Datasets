@@ -1,0 +1,9 @@
+{
+	"name": "sngdata-tokyo",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "70f47d8b-d6c8-4a8c-954b-2fffe5ff6a31",
+		"tenantId": "21e1bb67-e3f4-4784-a9ce-4aa4d6b401c5"
+	}
+}
